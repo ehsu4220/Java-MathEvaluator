@@ -20,4 +20,4 @@ Java implementation of the MathEvaluator object using Java's functional interfac
 
 # Notes
   - `round()` expression takes 2 arguments and may have unexpected behavior due to binary representation of decimal values
-    - Look into https://forum.nim-lang.org/t/4402
+    - Look into `binary representation of 0.1` as an example
